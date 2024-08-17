@@ -1,0 +1,3 @@
+-Ejecutar el Archivo bat para windows para correr el programa Jar 
+-Si se corre de otro Sistema Operativo investigar como correr un archivo jar desde consola. 
+-Esto sucede que al correr el archivo jar en algunas maquinas abre el programa y lo cierra 
