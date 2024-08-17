@@ -58,7 +58,7 @@ try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Presione Enter para salir...");
             scanner.nextLine();
         } catch (Exception e) {
-            e.printStackTrace();
+                        System.out.println("Error en el sistema la ruta del archivo esta mala\n Se sugiere colocar los archivos en el escritorio y copiar la ruta y colocarla");
         }
     }
 
